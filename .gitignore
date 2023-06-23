@@ -1,3 +1,5 @@
 /.venv/
 /data/raw/
 /data/.ipynb_checkpoints/
+/nlp_experiments/
+/data/lemmatized/
